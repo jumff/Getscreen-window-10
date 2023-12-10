@@ -1,5 +1,5 @@
 
-docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
+docker run -p 6070:80 dorowu/ubuntu-pashasellersstore@gmail.comdesktop-lxde-vnc
 
 http://shell.cloud.google.com/?fromcloudshell=true&shoH=terminal&pli=l
 
